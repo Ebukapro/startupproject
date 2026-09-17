@@ -23,10 +23,10 @@ list. When the gate is finally run, survivors already carry their full research.
 | — App Store collision | script (live iTunes API) | done | `output/appstore-raw.csv` | 120 checked, 21 exact collisions |
 | 3. Domain gate | — | **BLOCKED** | `output/03-domain-gate.md` | 120 → **0 verified** |
 | 4. Linguistic | Sonnet | done | `output/04-linguistic.md` | 120 assessed |
-| 5. Trademarks/handles | Sonnet | done | `output/05-availability.md` | survivors |
-| 6. Search + ASO | Sonnet | done | `output/06-seo-aso.md` | survivors |
+| 5. Trademarks/handles | Sonnet | running | `output/05-availability.md` | 36 shortlist |
+| 6. Search + ASO | Sonnet | running (2 shards) | `output/06-seo-aso-{a,b}.md` | 36 shortlist |
 | 7. Regulatory | Sonnet | done | `output/07-regulatory.md` | 120 assessed |
-| 8. Scoring + report | Opus | done | `output/08-final-report.md`, `output/09-client-shortlist.md` | → 10 ranked |
+| 8. Scoring + report | Opus | pending | `output/08-final-report.md`, `output/09-client-shortlist.md` | → 10 ranked |
 
 ## Gate counts
 
@@ -34,9 +34,11 @@ list. When the gate is finally run, survivors already carry their full research.
 |---|---|
 | Generated | 120 |
 | After NGX collision screen | 120 |
-| After linguistic (Agent 4 FAILs removed) | see `04-linguistic.md` |
-| After regulatory (HIGH removed) | see `07-regulatory.md` |
+| After linguistic (25 FAILs removed) | 95 |
+| After regulatory (3 HIGH removed, all already linguistic FAILs) | 95 |
 | After domain gate | **not run — 0 verified** |
+| Priority set (PASS + no store collision + not reg-MEDIUM) | 65 |
+| Deep-research shortlist (Agents 5/6), territory-spread | 36 |
 | Final ranked | 10 (provisional, pending domains) |
 
 ## Next step
