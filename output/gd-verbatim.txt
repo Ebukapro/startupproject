@@ -1,0 +1,14 @@
+talvin.com | isAvailable=true | {"id":"1","name":"talvin.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+tickline.com | isAvailable=true | {"id":"1","name":"tickline.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+helmstone.com | isAvailable=true | {"id":"1","name":"helmstone.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+tenorbell.com | isAvailable=true | {"id":"1","name":"tenorbell.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+riverlot.com | isAvailable=true | {"id":"1","name":"riverlot.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+lanternpost.com | isAvailable=true | {"id":"1","name":"lanternpost.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+beaconpost.com | isAvailable=true | {"id":"1","name":"beaconpost.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+lanterntally.com | isAvailable=true | {"id":"1","name":"lanterntally.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Standard","purchasable":true}
+truebasis.com | isAvailable=true | {"id":"1","name":"truebasis.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+plainledger.com | isAvailable=true | {"id":"1","name":"plainledger.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+evenledger.com | isAvailable=true | {"id":"1","name":"evenledger.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+levelbasis.com | isAvailable=true | {"id":"1","name":"levelbasis.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Standard","purchasable":true}
+cleartally.com | isAvailable=true | {"id":"1","name":"cleartally.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Premium","purchasable":true}
+evenbasis.com | isAvailable=true | {"id":"1","name":"evenbasis.com","tld":"com","available":true,"priceInfo":null,"isExactMatch":true,"inventoryType":"Standard","purchasable":true}
