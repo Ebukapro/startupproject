@@ -1,72 +1,72 @@
 # Ten Names
 
-These are ten available names for the app. **One thing to know before you read
-them: the domains have not been confirmed yet** — the check couldn't run from where
-this was built, and it takes about three minutes to run properly rather than
-guessing. Everything else has been checked: language, trademarks, app store
-collisions and how findable each name is. Pick a first and a second choice, and
-the domains get confirmed against those two straight away.
+Ten available names for the app. **Every domain below has been checked and is
+available to register today at standard price — about $12 a year.** Two sources
+agree on them: a registrar bulk search and a live GoDaddy check. Pick a first and
+a second choice and they can be registered the same day.
 
 | # | Name | How to say it | The idea behind it | Domain | Why it works | Watch out for |
 |---|---|---|---|---|---|---|
-| 1 | **Northbell** | NORTH-bell | A bearing and the opening bell | northbell.com — to confirm | Two plain words, so people spell it right after hearing it once | Safe rather than striking; it doesn't turn into a verb |
-| 2 | **Torven** | TOR-ven | Short, coined, solid | torven.com — to confirm | Six letters, nothing else owns the word, easy to find online | Sounds cool rather than warm — the least friendly of the ten |
-| 3 | **Keelstone** | KEEL-stone | The keel keeps you upright | keelstone.com — to confirm | Best story of the lot: not about getting rich, about not capsizing | Will take longer to reach the top of Google, and one other firm uses a similar name |
-| 4 | **Rondeva** | ron-DAY-va | A meeting with the market | rondeva.com — to confirm | Warm, easy to say anywhere, and nothing else is using it | People may type Rondeeva or Rondiva after hearing it |
-| 5 | **Larkstone** | LARK-stone | Up with the lark; early | larkstone.com — to confirm | Optimistic and easy, without promising anything about returns | In app store search, "Lark" pulls up a bigger company first |
-| 6 | **Stavion** | STAY-vee-on | Latin for standing firm | stavion.com — to confirm | Modern and distinctive, and completely clear on trademarks | Typing "Stav" in the app store brings up Strava first |
-| 7 | **Truetenor** | TRUE-TEN-or | A true length of time | truetenor.com — to confirm | Almost nothing competes for this on Google — cheap to become findable | Most people hear "tenor" and think of the singing voice, not investing |
-| 8 | **Talvin** | TAL-vin | A tally of what you own | talvin.com — to confirm | Six letters, clean, easy in any accent | Sounds like a person's name, and one other brand uses it |
-| 9 | **Foredeck** | FORE-deck | Standing where you see ahead | foredeck.com — to confirm | A real word, but rare enough that you could own it | It's a sailing term, so it needs explaining in Lagos |
-| 10 | **Tickline** | TICK-line | Every tick of the price | tickline.com — to confirm | Speaks the market's language and is clear on trademarks | "Tick" means an insect to most people who don't trade yet |
+| 1 | **Talvinia** | tal-VIN-ee-a | A tally of what you own | talvinia.com, ~$12 | Clean on trademarks and nothing else competes for the name online | Sounds like a place or a person before it sounds like a product |
+| 2 | **Lanternlot** | LAN-tern-lot | A light, and a parcel of shares | lanternlot.com, $11.28 | Lantern-as-guidance lands warmly in Nigeria, and no one has used it here | "Lantern Finance" already exists overseas — worth a lawyer's look |
+| 3 | **Beaconlot** | BEE-kun-lot | A guiding light, and a share lot | beaconlot.com, ~$12 | Two plain words, spelled right after hearing them once | "Beacon" is crowded with finance firms abroad |
+| 4 | **Fairtenor** | FAIR-ten-or | A fair length of time | fairtenor.com, ~$12 | Completely clear on trademarks, and easy in any accent | "Tenor" makes most people think of singing, not investing |
+| 5 | **Levelbasis** | LEV-el-BAY-sis | Everyone on level terms | levelbasis.com, ~$12 | Says fairness without promising returns; clean legally | Reads a little dry and corporate for a young audience |
+| 6 | **Quiettally** | KWY-et-TAL-ee | A calm count of your money | quiettally.com, ~$12 | The easiest of all ten to spell from a voice note | "Tally" is a registered fintech name elsewhere |
+| 7 | **Paritana** | pa-ri-TAH-na | Parity — everyone equal | paritana.com, ~$12 | Warm sound, clean record, and "pari" reads positively in Yoruba | The "-ana" ending is a bit of a generic fintech tic |
+| 8 | **Ridgetally** | RIDGE-tal-ee | A steady count from high ground | ridgetally.com, ~$12 | Strong, grounded image and a working verb, "tally up" | Slower to reach the top of Google, and "Ridge" is actively trademarked |
+| 9 | **Opentenor** | OH-pen-TEN-or | An open length of time | opentenor.com, ~$12 | Transparent tone, clear on trademarks | Slower to become findable, and close to an existing crypto project's name |
+| 10 | **Ordenalis** | or-den-AH-lis | Order, put in order | ordenalis.com, ~$12 | The cleanest legal record of all ten | Sounds clinical rather than friendly, and people will misspell it |
 
 ---
 
 **For WhatsApp:**
 
 ```
-1. NORTHBELL (say: NORTH-bell)
-   A bearing and the opening bell. northbell.com, price TBC.
-   Works because people spell it right after hearing it once. Watch: safe rather than striking.
+1. TALVINIA (say: tal-VIN-ee-a)
+   A tally of what you own. talvinia.com, ~$12.
+   Works because it's trademark-clean and uncontested online. Watch: sounds like a place name.
 
-2. TORVEN (say: TOR-ven)
-   Short, coined, solid. torven.com, price TBC.
-   Works because it's 6 letters and nothing else owns it. Watch: cool rather than warm.
+2. LANTERNLOT (say: LAN-tern-lot)
+   A light, and a parcel of shares. lanternlot.com, $11.28.
+   Works because lantern-as-guidance lands warmly here. Watch: a Lantern Finance exists abroad.
 
-3. KEELSTONE (say: KEEL-stone)
-   The keel keeps you upright. keelstone.com, price TBC.
-   Works because it's about not capsizing, not getting rich. Watch: slower to reach the top of Google.
+3. BEACONLOT (say: BEE-kun-lot)
+   A guiding light, and a share lot. beaconlot.com, ~$12.
+   Works because people spell it right after hearing it once. Watch: "Beacon" is crowded in finance.
 
-4. RONDEVA (say: ron-DAY-va)
-   A meeting with the market. rondeva.com, price TBC.
-   Works because it's warm and nothing else uses it. Watch: people may misspell it.
+4. FAIRTENOR (say: FAIR-ten-or)
+   A fair length of time. fairtenor.com, ~$12.
+   Works because it's completely trademark-clear. Watch: "tenor" suggests singing to most people.
 
-5. LARKSTONE (say: LARK-stone)
-   Up with the lark; early. larkstone.com, price TBC.
-   Works because it's optimistic without promising returns. Watch: "Lark" pulls up a bigger app first.
+5. LEVELBASIS (say: LEV-el-BAY-sis)
+   Everyone on level terms. levelbasis.com, ~$12.
+   Works because it says fairness without promising returns. Watch: a little dry.
 
-6. STAVION (say: STAY-vee-on)
-   Latin for standing firm. stavion.com, price TBC.
-   Works because it's modern and trademark-clear. Watch: "Stav" brings up Strava in the app store.
+6. QUIETTALLY (say: KWY-et-TAL-ee)
+   A calm count of your money. quiettally.com, ~$12.
+   Works because it's the easiest one to spell from a voice note. Watch: "Tally" is taken elsewhere.
 
-7. TRUETENOR (say: TRUE-TEN-or)
-   A true length of time. truetenor.com, price TBC.
-   Works because almost nothing competes for it on Google. Watch: "tenor" sounds like the singing voice.
+7. PARITANA (say: pa-ri-TAH-na)
+   Parity - everyone equal. paritana.com, ~$12.
+   Works because it's warm and "pari" reads well in Yoruba. Watch: generic "-ana" ending.
 
-8. TALVIN (say: TAL-vin)
-   A tally of what you own. talvin.com, price TBC.
-   Works because it's short and easy in any accent. Watch: sounds like a person's name.
+8. RIDGETALLY (say: RIDGE-tal-ee)
+   A steady count from high ground. ridgetally.com, ~$12.
+   Works because it has a real verb, "tally up". Watch: slower to become findable.
 
-9. FOREDECK (say: FORE-deck)
-   Standing where you see ahead. foredeck.com, price TBC.
-   Works because it's a real word you could still own. Watch: a sailing term, needs explaining.
+9. OPENTENOR (say: OH-pen-TEN-or)
+   An open length of time. opentenor.com, ~$12.
+   Works because the tone is transparent and it's trademark-clear. Watch: slower to become findable.
 
-10. TICKLINE (say: TICK-line)
-    Every tick of the price. tickline.com, price TBC.
-    Works because it speaks the market's language. Watch: "tick" means an insect to non-traders.
+10. ORDENALIS (say: or-den-AH-lis)
+    Order, put in order. ordenalis.com, ~$12.
+    Works because it has the cleanest legal record. Watch: sounds clinical, easy to misspell.
 ```
 
 ---
 
-*Domains are confirmed the moment you name a first and second choice — about three
-minutes of checking, then the exact price for each.*
+*Before paying: confirm the exact price at the registrar's checkout, and have a
+Nigerian trademark attorney search classes 9 and 36 — the Nigerian registry could
+not be reached during this work, so no Nigerian trademark check has been done on
+any of these.*
