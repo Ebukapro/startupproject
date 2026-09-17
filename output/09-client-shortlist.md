@@ -1,72 +1,72 @@
 # Ten Names
 
 Ten available names for the app. **Every domain below has been checked and is
-available to register today at standard price — about $12 a year.** Two sources
-agree on them: a registrar bulk search and a live GoDaddy check. Pick a first and
-a second choice and they can be registered the same day.
+available to register today at standard price — about $12 a year, not a premium
+resale price.** Pick a first and a second choice and they can be registered the
+same day.
 
 | # | Name | How to say it | The idea behind it | Domain | Why it works | Watch out for |
 |---|---|---|---|---|---|---|
-| 1 | **Talvinia** | tal-VIN-ee-a | A tally of what you own | talvinia.com, ~$12 | Clean on trademarks and nothing else competes for the name online | Sounds like a place or a person before it sounds like a product |
-| 2 | **Lanternlot** | LAN-tern-lot | A light, and a parcel of shares | lanternlot.com, $11.28 | Lantern-as-guidance lands warmly in Nigeria, and no one has used it here | "Lantern Finance" already exists overseas — worth a lawyer's look |
-| 3 | **Beaconlot** | BEE-kun-lot | A guiding light, and a share lot | beaconlot.com, ~$12 | Two plain words, spelled right after hearing them once | "Beacon" is crowded with finance firms abroad |
-| 4 | **Fairtenor** | FAIR-ten-or | A fair length of time | fairtenor.com, ~$12 | Completely clear on trademarks, and easy in any accent | "Tenor" makes most people think of singing, not investing |
-| 5 | **Levelbasis** | LEV-el-BAY-sis | Everyone on level terms | levelbasis.com, ~$12 | Says fairness without promising returns; clean legally | Reads a little dry and corporate for a young audience |
-| 6 | **Quiettally** | KWY-et-TAL-ee | A calm count of your money | quiettally.com, ~$12 | The easiest of all ten to spell from a voice note | "Tally" is a registered fintech name elsewhere |
-| 7 | **Paritana** | pa-ri-TAH-na | Parity — everyone equal | paritana.com, ~$12 | Warm sound, clean record, and "pari" reads positively in Yoruba | The "-ana" ending is a bit of a generic fintech tic |
-| 8 | **Ridgetally** | RIDGE-tal-ee | A steady count from high ground | ridgetally.com, ~$12 | Strong, grounded image and a working verb, "tally up" | Slower to reach the top of Google, and "Ridge" is actively trademarked |
-| 9 | **Opentenor** | OH-pen-TEN-or | An open length of time | opentenor.com, ~$12 | Transparent tone, clear on trademarks | Slower to become findable, and close to an existing crypto project's name |
-| 10 | **Ordenalis** | or-den-AH-lis | Order, put in order | ordenalis.com, ~$12 | The cleanest legal record of all ten | Sounds clinical rather than friendly, and people will misspell it |
+| 1 | **Dawnlot** | DAWN-lot | First light, a parcel of shares | dawnlot.com, ~$12 | The only name that's clean legally, easy to find online, and safe in all nine languages checked | Mild — "dawn" doesn't tell you it's about investing |
+| 2 | **Talvinia** | tal-VIN-ee-a | A tally of what you own | talvinia.com, ~$12 | Nothing else on the internet competes for it, and it makes users "Talvinians" | Sounds like a place or a person before a product |
+| 3 | **Candlelot** | CAN-dl-lot | Candlelight, and the candlestick chart | candlelot.com, ~$12 | Warm to a beginner, precise to anyone who already trades | The chart meaning is invisible to first-timers |
+| 4 | **Torchlot** | TORCH-lot | The torch you reach for | torchlot.com, ~$12 | The most familiar, local-feeling name of the ten | Americans hear "burning stick", so it travels less well |
+| 5 | **Quiettally** | KWY-et-TAL-ee | A calm count of your money | quiettally.com, ~$12 | Easiest of all ten to spell after hearing it once | "Tally" is a registered fintech name elsewhere |
+| 6 | **Lanternlot** | LAN-tern-lot | A light to see your money by | lanternlot.com, **$11.28** | Only one with a confirmed exact price, and the warmest idea of the ten | A crypto lender called Lantern Finance already exists |
+| 7 | **Ridgetally** | RIDGE-tal-ee | A steady count from high ground | ridgetally.com, ~$12 | Easy to find online, and "tally up" works as a verb | "Ridgeline" is a trademark in the same industry |
+| 8 | **Ondrevia** | on-DREV-ee-a | A made-up word, yours alone | ondrevia.com, ~$12 | Completely clear legally, and nothing competes for it online | It means nothing, so you pay to give it meaning |
+| 9 | **Holdlot** | HOLD-lot | Buy, sell, hold | holdlot.com, ~$12 | Uses a word every investor already knows — "I'm holding" | A storage company already uses the exact name |
+| 10 | **Novaleth** | NO-va-leth | A made-up word, yours alone | novaleth.com, ~$12 | Clean in every language checked, and legally clear | The coldest name here, and close to a startup called Novalith |
 
 ---
 
 **For WhatsApp:**
 
 ```
-1. TALVINIA (say: tal-VIN-ee-a)
+1. DAWNLOT (say: DAWN-lot)
+   First light, a parcel of shares. dawnlot.com, ~$12.
+   Works because it's clean legally and easy to find. Watch: doesn't say "investing" on its own.
+
+2. TALVINIA (say: tal-VIN-ee-a)
    A tally of what you own. talvinia.com, ~$12.
-   Works because it's trademark-clean and uncontested online. Watch: sounds like a place name.
+   Works because nothing else competes for it online. Watch: sounds like a place name.
 
-2. LANTERNLOT (say: LAN-tern-lot)
-   A light, and a parcel of shares. lanternlot.com, $11.28.
-   Works because lantern-as-guidance lands warmly here. Watch: a Lantern Finance exists abroad.
+3. CANDLELOT (say: CAN-dl-lot)
+   Candlelight, and the candlestick chart. candlelot.com, ~$12.
+   Works because it's warm to beginners and precise to traders. Watch: chart meaning is invisible to new users.
 
-3. BEACONLOT (say: BEE-kun-lot)
-   A guiding light, and a share lot. beaconlot.com, ~$12.
-   Works because people spell it right after hearing it once. Watch: "Beacon" is crowded in finance.
+4. TORCHLOT (say: TORCH-lot)
+   The torch you reach for. torchlot.com, ~$12.
+   Works because it feels local and familiar. Watch: Americans hear "burning stick".
 
-4. FAIRTENOR (say: FAIR-ten-or)
-   A fair length of time. fairtenor.com, ~$12.
-   Works because it's completely trademark-clear. Watch: "tenor" suggests singing to most people.
-
-5. LEVELBASIS (say: LEV-el-BAY-sis)
-   Everyone on level terms. levelbasis.com, ~$12.
-   Works because it says fairness without promising returns. Watch: a little dry.
-
-6. QUIETTALLY (say: KWY-et-TAL-ee)
+5. QUIETTALLY (say: KWY-et-TAL-ee)
    A calm count of your money. quiettally.com, ~$12.
-   Works because it's the easiest one to spell from a voice note. Watch: "Tally" is taken elsewhere.
+   Works because it's the easiest to spell from hearing. Watch: "Tally" is taken elsewhere.
 
-7. PARITANA (say: pa-ri-TAH-na)
-   Parity - everyone equal. paritana.com, ~$12.
-   Works because it's warm and "pari" reads well in Yoruba. Watch: generic "-ana" ending.
+6. LANTERNLOT (say: LAN-tern-lot)
+   A light to see your money by. lanternlot.com, $11.28.
+   Works because it's the warmest idea and the price is confirmed. Watch: Lantern Finance exists.
 
-8. RIDGETALLY (say: RIDGE-tal-ee)
+7. RIDGETALLY (say: RIDGE-tal-ee)
    A steady count from high ground. ridgetally.com, ~$12.
-   Works because it has a real verb, "tally up". Watch: slower to become findable.
+   Works because it's easy to find and "tally up" is a real verb. Watch: "Ridgeline" is a trademark in finance.
 
-9. OPENTENOR (say: OH-pen-TEN-or)
-   An open length of time. opentenor.com, ~$12.
-   Works because the tone is transparent and it's trademark-clear. Watch: slower to become findable.
+8. ONDREVIA (say: on-DREV-ee-a)
+   A made-up word, yours alone. ondrevia.com, ~$12.
+   Works because it's completely clear legally. Watch: it means nothing until you give it meaning.
 
-10. ORDENALIS (say: or-den-AH-lis)
-    Order, put in order. ordenalis.com, ~$12.
-    Works because it has the cleanest legal record. Watch: sounds clinical, easy to misspell.
+9. HOLDLOT (say: HOLD-lot)
+   Buy, sell, hold. holdlot.com, ~$12.
+   Works because every investor knows the word "hold". Watch: a storage company uses the name.
+
+10. NOVALETH (say: NO-va-leth)
+    A made-up word, yours alone. novaleth.com, ~$12.
+    Works because it's clean in every language checked. Watch: the coldest name of the ten.
 ```
 
 ---
 
-*Before paying: confirm the exact price at the registrar's checkout, and have a
-Nigerian trademark attorney search classes 9 and 36 — the Nigerian registry could
-not be reached during this work, so no Nigerian trademark check has been done on
-any of these.*
+*Before paying: confirm the price at checkout, and have a Nigerian trademark
+attorney search classes 9 and 36 — the Nigerian registry could not be reached
+during this work, so no Nigerian trademark check has been done on any of these.
+That matters most for Lanternlot, Ridgetally and Holdlot.*
