@@ -1,0 +1,10 @@
+# preflight 2026-09-17T16:57:50Z
+#   .com     DISABLED (google.com=UNKNOWN:unreachable, control=UNKNOWN:unreachable)
+#   .co      DISABLED (angel.co=UNKNOWN:unreachable, control=UNKNOWN:unreachable)
+#   .app     DISABLED (web.app=UNKNOWN:unreachable, control=UNKNOWN:unreachable)
+#   .io      DISABLED (github.io=UNKNOWN:unreachable, control=UNKNOWN:unreachable)
+#   .ng      DISABLED (nic.net.ng=UNKNOWN:unreachable, control=UNKNOWN:unreachable)
+#   .com.ng  DISABLED (google.com.ng=UNKNOWN:unreachable, control=UNKNOWN:unreachable)
+#   .africa  DISABLED (nic.africa=UNKNOWN:unreachable, control=UNKNOWN:unreachable)
+# FATAL: no TLD passed preflight. Network or policy is blocking RDAP.
+# Refusing to emit results. Do NOT proceed on unverified domain data.
