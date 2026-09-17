@@ -1,0 +1,36 @@
+# INVALID DATA - DO NOT USE. Retained only as evidence of a failed method.
+#
+# These .ng and .com.ng lookups are worthless. GoDaddy does not sell .ng, so the
+# API silently returns isAvailable=false with no exact-match object for EVERY
+# .ng query rather than erroring.
+#
+# Proof: qx7vzmplkjhgtrfd91x.ng - a 19-character random string that cannot
+# possibly be registered - also returns isAvailable=false. Verified directly
+# 2026-09-17.
+#
+# The control chosen for this run (kuda.ng) was badly picked: an unavailable
+# result there is consistent BOTH with working lookups and with a tool that
+# cannot query the TLD at all. A random-string control is the one that settles
+# it, and it settles it against the data below.
+#
+# CONSEQUENCE: .ng and .com.ng availability remains UNCHECKED for every name in
+# this project, across every round. The original brief weighted .ng heavily
+# because the product launches in Nigeria. To check it, use a NiRA-accredited
+# registrar (Whogohost, DomainKing, Qservers) - not GoDaddy.
+#
+keelstone.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+northbell.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+larkstone.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+torven.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+rondeva.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+truetenor.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+foredeck.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+neva.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+arela.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+lelia.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+tamira.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+kuda.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+keelstone.com.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+northbell.com.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+larkstone.com.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
+torven.com.ng | isAvailable=false | inventoryType=NO_EXACT_MATCH
